@@ -1,0 +1,22 @@
+#container{
+    margin-top:5%;
+    height:685.195px;
+    width:685.195px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+
+}
+.cell{
+    border:1px solid black;
+}
+html, body{
+    margin:0;
+    padding:0px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:0;
+}
